@@ -17,7 +17,7 @@ The Directory Size Visualizer is a Python script that calculates the sizes of im
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/directory-size-visualizer.git
+   git clone https://github.com/Minja-Knezic/directory-size-visualizer.git
    cd directory-size-visualizer
    ```
 2. Install the required library:
